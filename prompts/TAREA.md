@@ -47,12 +47,12 @@ Actúa como desarrollador Python senior. Crea un script para registrar pacientes
 |  **Contexto** |...usando un diccionario que guarde DNI, nombre y especialidad médica.|
 |  **Ejemplo**  |Por ejemplo, la estructura debe incluir entradas como: {"dni": "12345678", "nombre": "Ana Pérez", "especialidad": "Cardiología"}|
 |  **Formato**  |Explica primero la lógica del código y luego preséntalo comentado.|
-
+|**Restricción**| No uses librerías externas. |
 ## Evaluacion del resultado
 
 |             **Preguntas**                                   |**Cumple** (Si/No)|
 |-------------------------------------------------------------|------------------|
-|¿Está escrito en Python?                                    |        Si        |
+|¿Está escrito en Python?                                     |        Si        |
 |¿Registra los datos del paciente (DNI, nombre, especialidad)?|        Si        |
 |¿Respeta la restricción de no usar librerías externas?       |        Si        |
 |¿Explica la teoría antes de presentar el código?             |        Si        |
