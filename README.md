@@ -2,3 +2,5 @@
 Bitacora de ingenieria de prompts
 
 - [Bitacora de prompts](prompts/BITACORA.md)
+
+- [Ir a la Tarea de Prompts Professionales](prompts/TAREA.md)
